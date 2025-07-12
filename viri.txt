@@ -1,0 +1,35 @@
+https://en.wikipedia.org/wiki/Kernel_(image_processing) Dostopno: 8.1.2025 ob 16:04
+
+https://www.youtube.com/watch?v=C_zFhWdM4ic&ab_channel=Computerphile Dostopno: 8.1.2025 ob 16:50
+
+https://docs.oracle.com/javase/8/docs/api/java/awt/image/BufferedImage.html Dostopno: 10.1.2025 ob 21:21
+
+https://www.youtube.com/watch?v=gp9H0WLxKgU&ab_channel=ProgrammingandMathTutorials Dostopno: 10.1.2025 ob 21:58
+
+https://chatgpt.com/ Dostopno: 11.1.2025 ob 14:01
+
+https://github.com/features/copilot Dostopno: 11.1.2025 ob 14:02
+
+https://alvinalexander.com/blog/post/java/getting-rgb-values-for-each-pixel-in-image-using-java-bufferedi/ Dostopno: 11.1.2025 ob 15:18
+
+http://tech.abdulfatir.com/2014/05/kernel-image-processing.html Dostopno: 11.1.2025 ob 17:21
+
+https://www.youtube.com/watch?v=FR2UptJyaSM&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=51&ab_channel=BroCode Dostopno: 12.1.2025 ob 11:22
+
+https://www.youtube.com/watch?v=dvzAuq-YDpM&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=51&ab_channel=BroCode Dostopno: 12.1.2025 ob 11:31
+
+https://www.youtube.com/watch?v=PD6pd6AMoOI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=53&ab_channel=BroCode Dostopno: 12.1.2025 ob 11:51
+
+https://docs.oracle.com/javase/8/docs/api/javax/swing/JFileChooser.html Dostopno: 12.1.2025 ob 12:30
+
+https://www.youtube.com/watch?v=A6sA9KItwpY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=66&ab_channel=BroCode Dostopno: 12.1.2025 ob 12:45
+
+https://docs.oracle.com/javase/8/docs/api/javax/swing/JComponent.html Dostopno: 12.1.2025 ob 15:30
+
+https://javarevisited.blogspot.com/2017/04/difference-between-repaint-and-revalidate-in-Swing-Java.html Dostopno: 12.1.2025 ob 15:35
+
+https://www.youtube.com/watch?v=EAxV_eoYrIg&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=65&ab_channel=BroCode Dostopno: 16.1.2025 ob 17:40
+
+https://docs.oracle.com/javase/8/docs/api/java/awt/Image.html Dostopno: 19.1.2025 ob 10:30
+
+https://cloudinary.com/guides/bulk-image-resize/3-ways-to-resize-images-in-java#buffered-image Dostopno: 19.1.2025 ob 14:38
