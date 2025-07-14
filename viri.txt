@@ -33,3 +33,11 @@ https://www.youtube.com/watch?v=EAxV_eoYrIg&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkd
 https://docs.oracle.com/javase/8/docs/api/java/awt/Image.html Dostopno: 19.1.2025 ob 10:30
 
 https://cloudinary.com/guides/bulk-image-resize/3-ways-to-resize-images-in-java#buffered-image Dostopno: 19.1.2025 ob 14:38
+
+https://www.youtube.com/watch?v=6Oo-9Can3H8&ab_channel=DefogTech Dostopno: 12.7.2025 ob 12:53
+
+https://www.youtube.com/watch?v=NEZ2ASoP_nY&ab_channel=DefogTech Dostopno: 12.7.2025 ob 15:01
+
+https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ExecutorService.html Dostopno: 13.7.2025 ob 12:38
+
+https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/Callable.html Dostopno: 13.7.2025 ob 13:10
